@@ -4,7 +4,7 @@ Code repository of the https://alienDB.org website.
 
 ## Overview
 
-This repo is meant contain the code behind alienDB.org (aka "AlienDB"), which is a data and ML-centric website about ET life, UAPs, SETI, METI and the human beings behind the search. The site is only a few weeks old (as of mid August, 2022) so it's incomplete, rapidly evolving, and fairly messy. 
+alienDB.org ("AlienDB") is a data and ML-centric website about ET life, UAPs, SETI, METI and the human beings behind the search. The site is only a few weeks old (as of mid August, 2022) so it's incomplete, rapidly evolving, and fairly messy. 
 
 For now I think it will be best if I just include a few of the most useful snippets and perhaps the source of the homepage. Once the site and its data tables are more mature and stable I will see about posting the full, reproducible code.
 
